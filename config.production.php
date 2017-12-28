@@ -1,6 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://hootener.github.io/VitaeChamber/',
+    'environment' => 'prod',
+    'baseUrl' => 'https://hootener.github.io/VitaeChamber',
     'production' => true,
 ];

@@ -1,7 +1,8 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'environment' => 'dev',
+    'baseUrl' => 'http://localhost:3000',
     'production' => false,
     'collections' => [
         'projects' => [
