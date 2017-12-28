@@ -1,0 +1,13 @@
+$icon-font-path: '../fonts/';
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+@function font-path($path) {
+  @return $path;
+}
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: 'Roboto Slab', serif;
+}

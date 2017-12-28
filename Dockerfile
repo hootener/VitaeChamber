@@ -6,6 +6,7 @@ RUN composer global require tightenco/jigsaw:v1.0.7 && \
 	apk update && \
 	apk --no-cache add nodejs build-base && \
 	npm install -g npm && \
+    npm install -g browserify && \
 	npm cache clean --force
 
 ENV PATH="/tmp/vendor/bin:${PATH}"
