@@ -13,7 +13,7 @@
                 I'm the Chief Technology Officer / Co-Founder of <a href="https://gamewisp.com" target="_blank">GameWisp</a> (2012 - present).
             </li>
             <li>
-                I graduated from Vanderbilt University in 2017 with a Ph D in Computer Science, as an <a href="https://ndseg.asee.org/" target="_blank">NDSEG Fellow</a>.
+                I graduated from Vanderbilt University in 2014 with a Ph D in Computer Science, as an <a href="https://ndseg.asee.org/" target="_blank">NDSEG Fellow</a>.
             </li>
             <li> 
                 I'm an alum of the <a href="https://www.techstars.com/" target="_blank">TechStars</a> 2014 Chicago Cohort.
