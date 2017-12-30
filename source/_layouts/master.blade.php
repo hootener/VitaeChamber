@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="{{$page->baseUrl}}/css/main.css">
     </head>
     <body>
-        <header class="navbar fixed-top navbar-expand navbar-light flex-column flex-md-row bd-navbar">
+        <header class="navbar fixed-top navbar-expand navbar-light flex-column flex-md-row bd-navbar site-nav">
             <a class="navbar-brand mr-3 mr-md-3" href="{{$page->baseUrl}}">Eli Hooten</a>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -22,7 +22,7 @@
             </div>
         </header>
 
-        <div class="container mt-5">
+        <div class="container content-container">
         @yield('body')
         </div>
             

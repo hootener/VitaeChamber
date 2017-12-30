@@ -3,7 +3,7 @@
 @section('body')
 <div class="row">
     <div class="col-md-10 offset-md-1" style="text-align: right; border-bottom: 1px solid">
-        <span>Curriculum Vitae</span>
+        <h1 class="cv-header">Curriculum Vitae</h1>
     </div>
     <div class="col-md-10 offset-md-1 mt-2">
         <section class="row">
