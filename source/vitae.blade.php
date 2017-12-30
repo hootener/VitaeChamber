@@ -13,7 +13,7 @@
             <div class="col-md-4 col-sm-12">
                 <address>
                     GameWisp, Inc.<br>
-                    1310 Clinton Street<br>
+                    1310 Clinton Street, Ste 204<br>
                     Nashville, TN 37202
                 </address>
 
@@ -41,7 +41,7 @@
                         grew from $0 to $4M, we gained hundreds of thousands active users, and shipped numerous successful products and features. 
                     </p>
                     <p>
-                        I am hoping to apply my skills as a scientist, software developer, and business leader to other companies in the gaming industry with the intent of managing larger teams, solving harder
+                        I hope to apply my skills as a scientist, software developer, and business leader to other companies in the gaming industry. I look forward to managing larger teams, solving harder
                         technical problems, and providing the executive-level insight necessary to help a business grow, regardless of its current size.
                     </p>
                 </div>

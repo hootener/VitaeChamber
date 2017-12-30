@@ -8320,6 +8320,10 @@ a.text-dark:focus, a.text-dark:hover {
   visibility: hidden !important;
 }
 
+.navbar {
+  background: white;
+}
+
 body {
   font-family: 'Roboto Slab', serif;
 }
