@@ -11,3 +11,26 @@ $icon-font-path: '../fonts/';
 body {
     font-family: 'Roboto Slab', serif;
 }
+
+section {
+    .head-text {
+        text-transform: uppercase;
+        font-size: 0.7em;
+    }
+
+    h6 {
+        font-weight: bold;
+    }
+}
+
+.contact-info {
+    list-style: none;
+}
+
+.pub-author {
+    margin-left: 10px;
+}
+
+.pub-pub {
+    margin-left: 10px;
+}
