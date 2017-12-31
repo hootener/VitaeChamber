@@ -2,6 +2,8 @@ $icon-font-path: '../fonts/';
 
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
+@import 'resume/resume';
+
 @function font-path($path) {
   @return $path;
 }

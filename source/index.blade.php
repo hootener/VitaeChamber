@@ -28,7 +28,7 @@
             <a class="mr-5" href="https://www.linkedin.com/in/hootener/" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
             <a class="mr-5" href="https://github.com/hootener/" target="_blank"><i class="fab fa-2x fa-github"></i></a>
         </p>
-        <p> You can use the links at the top to check out my <a href="{{$page->baseUrl}}/vitae">CV</a> and <a href="{{$page->baseUrl}}/projects">Projects</a> I've worked on. </p>
+        <p> You can use the links at the top to check out my <a href="{{$page->baseUrl}}/vitae">CV</a> and <a href="{{$page->baseUrl}}/resume">Resume</a>. </p>
     </div>
 </div>
 @endsection
