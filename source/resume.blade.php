@@ -4,14 +4,13 @@
 <section class="section summary-section">
     <h2 class="section-title"><i class="fa fa-user"></i> Executive Summary</h2>
     <div class="summary">
-        <p>After I receiving my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2017.
+        <p>After I received my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2017.
         </p>
-        <p> At GameWisp I grew the software team from zero to ten individuals that comprised developers, designers, data scientists, and project managers. Additionally, I 
-            led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from
+        <p> At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from
             $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. 
         </p>
         <p>
-            I hope to apply my skills as a scientist, software developer, and business leader to other companies in the gaming industry. I look forward to managing larger teams, solving harder
+            I hope to apply my skills as a scientist, software developer, and business leader to other companies in the gaming or other creative industries. I look forward to managing larger teams, solving harder
             technical problems, and providing the executive-level insight necessary to help a business grow, regardless of its current size.
         </p>
     </div><!--//summary-->            
