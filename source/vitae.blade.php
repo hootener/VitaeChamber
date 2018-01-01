@@ -1,9 +1,21 @@
 @extends('_layouts.master')
 
+@section('page-style')
+<style>
+    body {
+        background: #ededed;
+    }
+</style> 
+
+@endsection
+
 @section('body')
-<div class="row" style="margin-bottom: 200px">
+<div class="row" style="padding-bottom: 20px; padding-top: 10px">
+    <a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/rhh31mb72y6mp7k/vitae.pdf" target="_blank">View as PDF</a>
+</div>
+<div class="row cv-container" style="margin-bottom: 50px; padding-bottom: 60px; padding-top: 60px">
     <div class="col-md-10 offset-md-1" style="text-align: right; border-bottom: 1px solid">
-        <h1 class="cv-header">Curriculum Vitae</h1>
+        <h1 class="cv-header">Eli R Hooten, Ph D - Curriculum Vitae</h1>
     </div>
     <div class="col-md-10 offset-md-1 mt-2">
         <section class="row">
@@ -178,7 +190,7 @@
             <div class="col-md-10 col-sm-12 head">
                 <p>GameWisp, Inc., Board Member - 2016 to present</p>
                 <p>20th IEEE International Symposium on Robot and Human Interactive Communication, 2011 - Associate Editor</p>
-                <p>8th IEEE International Workshop on Safety, Security, and Rescue Robotics, 2010 - Programm Committee Member</p>
+                <p>8th IEEE International Workshop on Safety, Security, and Rescue Robotics, 2010 - Program Committee Member</p>
             </div>
         </section>
         <section class="row">
@@ -247,8 +259,8 @@
                 <p>Baja SAE Team Co-Captain <span style="float:right"> 2007 - 2008</span></p>
                 <ul>
                     <li>Designed with a student team MSUs inagural Baja car: a single seat, motorized, off-road vehicle.</li>
-                    <li>Personally designed and fabricated the vehicle's suspension and braking systems.</li>
-                    <li>Responsible for acquiring and managing coporate sponsorships.</li>
+                    <li>Personally designed and fabricated the vehicle's suspension system.</li>
+                    <li>Responsible for acquiring and managing corporate sponsorships.</li>
                 </ul>
             </div>
         </section>
