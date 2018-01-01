@@ -10,6 +10,9 @@
 @endsection
 
 @section('body')
+<div class="row" style="padding-bottom: 20px; padding-top: 10px; margin: 0 auto;">
+    <a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/e0dv6bdya4vth0d/resume.pdf" target="_blank">View as PDF</a>
+</div>
 <div class="wrapper">
     <div class="sidebar-wrapper">
         <div class="profile-container">

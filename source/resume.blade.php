@@ -47,7 +47,7 @@
                 <h3 class="job-title">Research Assistant</h3>
                 <div class="time">2009 - 2014</div>
             </div><!--//upper-row-->
-            <div class="company">Department of Electrical Engineer and Computer Science; Vanderbilt University; Nashville, TN</div>
+            <div class="company">Department of Electrical Engineering and Computer Science; Vanderbilt University; Nashville, TN</div>
         </div><!--//meta-->
         <div class="details">
             <p>I received my Ph D in 2014 from Vanderbilt Univeristy, studying human-computer interaction and human-robot interaction under Professor Julie A. Adams. My research investigated
