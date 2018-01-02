@@ -9,7 +9,7 @@
     </head>
     <body>
         <header class="navbar fixed-top navbar-expand navbar-light flex-column flex-md-row bd-navbar site-nav">
-            <a class="navbar-brand mr-3 mr-md-3" href="{{$page->baseUrl}}">Eli Hooten</a>
+            <a class="navbar-brand mr-3 mr-md-3" href="{{$page->baseUrl}}/index">Eli Hooten</a>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">

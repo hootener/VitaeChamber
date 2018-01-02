@@ -27,7 +27,7 @@
                     &#101;&#108;&#105;&#114;&#046;&#104;&#111;&#111;&#116;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
                     &#101;&#108;&#105;&#114;&#046;&#104;&#111;&#111;&#116;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
                 </a> </li>
-                <li class="website"><a href="http://elihooten.com" target="_blank"><i class="fa fa-globe"></i> elihooten.com</a></li>
+                <li class="website"><a href="http://elihooten.com/index" target="_blank"><i class="fa fa-globe"></i> elihooten.com</a></li>
                 <li><a class="mr-5" href="https://twitter.com/hootener" target="_blank"><i class="fab fa-twitter"></i> @hootener</a></li>
                 <li><a class="mr-5" href="https://www.linkedin.com/in/hootener/" target="_blank"><i class="fab fa-linkedin-in"></i> Eli Hooten</a></li>
                 <li><a class="mr-5" href="https://github.com/hootener/" target="_blank"><i class="fab fa-github"></i> hootener</a></li>
