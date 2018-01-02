@@ -10,8 +10,23 @@ elixir(function(mix) {
     var env = argv.e || argv.env || 'local';
     var port = argv.p || argv.port || 3000;
 
+    mix.copy(
+        'node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot',
+        'source/fonts'
+    ).copy(
+        'node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf',
+        'source/fonts'
+    ).copy(
+        'node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff',
+        'source/fonts'
+    ).copy(
+       'node_modules/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2',
+       'source/fonts'
+    );
+
     mix.sass('main.scss')
         .exec(bin.path() + ' build ' + env, ['./source/*', './source/**/*', '!./source/_assets/**/*'])
+        .browserify('app.js')
         .browserSync({
             port: port,
             server: { baseDir: 'build_' + env },
@@ -19,4 +34,3 @@ elixir(function(mix) {
             files: [ 'build_' + env + '/**/*' ]
         });
 });
-
