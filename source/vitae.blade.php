@@ -32,7 +32,7 @@
             </div>
             <div class="col-md-6">
                 <ul class="contact-info">
-                    <li>Site: <a href="http://elihooten.com/index" target="_blank">http://elihooten.com</a></li>
+                    <li>Site: <a href="http://elihooten.com" target="_blank">http://elihooten.com</a></li>
                     <li>Email: <a href="mailto:
                         &#101;&#108;&#105;&#114;&#046;&#104;&#111;&#111;&#116;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
                         &#101;&#108;&#105;&#114;&#046;&#104;&#111;&#111;&#116;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
