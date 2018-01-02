@@ -2,6 +2,6 @@
 
 return [
     'environment' => 'prod',
-    'baseUrl' => 'http://elihooten.com',
+    'baseUrl' => 'hootener.github.io/VitaeChamber',
     'production' => true,
 ];
