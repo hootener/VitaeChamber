@@ -11,12 +11,12 @@
 
 @section('body')
 <div class="row" style="padding-bottom: 20px; padding-top: 10px; margin: 0 auto;">
-    <a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/e0dv6bdya4vth0d/resume.pdf" target="_blank">View as PDF</a>
+    {{--<a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/e0dv6bdya4vth0d/resume.pdf" target="_blank">View as PDF</a>--}}
 </div>
 <div class="wrapper">
     <div class="sidebar-wrapper">
         <div class="profile-container">
-            <img class="profile" width="150" src="{{$page->baseUrl}}/img/profile.png" alt="" />
+            <img class="profile" width="150" src="/assets/images/profile.png" alt="" />
             <h1 class="name">Eli Hooten</h1>
             <h3 class="tagline">CTO / Developer / Engineer</h3>
         </div><!--//profile-container-->
@@ -29,7 +29,7 @@
                 </a> </li>
                 <li class="website"><a href="http://elihooten.com/index" target="_blank"><i class="fa fa-globe"></i> elihooten.com</a></li>
                 <li><a class="mr-5" href="https://twitter.com/hootener" target="_blank"><i class="fab fa-twitter"></i> @hootener</a></li>
-                <li><a class="mr-5" href="https://www.linkedin.com/in/hootener/" target="_blank"><i class="fab fa-linkedin-in"></i> Eli Hooten</a></li>
+                <li><a class="mr-5" href="https://www.linkedin.com/in/hootener/" target="_blank"><i class="fab fa-linkedin-in"></i> hootener</a></li>
                 <li><a class="mr-5" href="https://github.com/hootener/" target="_blank"><i class="fab fa-github"></i> hootener</a></li>
             </ul>
         </div>

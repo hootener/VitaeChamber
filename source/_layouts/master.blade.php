@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <link rel="stylesheet" href="{{$page->baseUrl}}/css/main.css">
+        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <script src="https://unpkg.com/feather-icons"></script>
         @yield('page-style')
     </head>
     <body>
@@ -30,10 +31,14 @@
         @yield('body')
         </div>
             
-        <script src="{{$page->baseUrl}}/js/app.js"></script>        
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>        
         
         <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
 
         @yield('page-scripts')
+        <script>
+            feather.replace()
+        </script>
+        
     </body>
 </html>
