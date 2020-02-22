@@ -42,12 +42,12 @@
                     <p>
                     Since graduating in 2014 I have applied these skills in startups. First serving as the CTO and Co-Founder of GameWisp until 2018, and then as the CTO of Codecov from 2018 to present day. 
                     </p>
-                    <p>
-                    While at Codecov I scaled the technical team from 2 to 10+ engineers, support staff, and product developers. I also led the overall technical direction of the business, and helped turn Codecov into a world class, industry leading developer tool and software product. 
-                    </p>
                     <p> At GameWisp I grew the software team from myself to a team of ten individuals comprised of developers, designers, data scientists, and project managers. Additionally, I 
                         led the overall technical design of GameWisp's products and shipped production-quality code on a daily basis. While at GameWisp our Annual Recurring Revenue
                         grew from $0 to $4M, we gained hundreds of thousands active users, and shipped numerous successful products and features.
+                    </p>
+                    <p>
+                    While at Codecov I scaled the technical team from 2 to 10+ engineers, support staff, and product developers. I also led the overall technical direction of the business, and helped turn Codecov into a world class, industry leading developer tool and software product. 
                     </p>
                     <p>
                         I enjoy applying my skills as a scientist, software developer, and business leader to SaaS companies of all sizes. I'm passionate about managing technical teams, solving complex technical problems, and providing executive-level oversight to growing businesses.
@@ -220,6 +220,7 @@
                 </ul>
                 <h6>Murray State University</h6>
                 <ul>
+                    <li>Alumni Association Top 22 under 40, 2019.</li>
                     <li>Presidential Fellowship, 2004 - 2009</li>
                     <li>Dean's List for Academic Excellence, 2004 - 2008</li>
                     <li>Undergraduate Research and Scholarly Activity Grant, 2009</li>
