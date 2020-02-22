@@ -11,7 +11,7 @@
 
 @section('body')
 <div class="row" style="padding-bottom: 20px; padding-top: 10px">
-    <a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/rhh31mb72y6mp7k/vitae.pdf" target="_blank">View as PDF</a>
+    {{--<a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/rhh31mb72y6mp7k/vitae.pdf" target="_blank">View as PDF</a> --}}
 </div>
 <div class="row cv-container" style="margin-bottom: 50px; padding-bottom: 60px; padding-top: 60px">
     <div class="col-md-10 offset-md-1" style="text-align: right; border-bottom: 1px solid">
@@ -22,16 +22,8 @@
             <div class="col-md-2 col-sm-12 head">
                 <p class="head-text">Contact</p>
             </div>
-            <div class="col-md-4 col-sm-12">
-                <address>
-                    GameWisp, Inc.<br>
-                    1310 Clinton Street, Ste 204<br>
-                    Nashville, TN 37202
-                </address>
-
-            </div>
-            <div class="col-md-6">
-                <ul class="contact-info">
+            <div class="col-md-10 col-sm-12 head">
+                <ul class="contact-info" style="padding-inline-start: 0px">
                     <li>Site: <a href="http://elihooten.com" target="_blank">http://elihooten.com</a></li>
                     <li>Email: <a href="mailto:
                         &#101;&#108;&#105;&#114;&#046;&#104;&#111;&#111;&#116;&#101;&#110;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
@@ -46,15 +38,19 @@
                 </div>
                 <div class="col-md-10 col-sm-12 head">
                     <p>While obtaining my Ph D in Computer Science, I developed a deep knowledge of experimental design, human factors, statistical analysis, software development, and team management. 
-                        Since 2012 I have applied these skills at GameWisp, Inc. as the Chief Technology Officer and Co-Founder.
-                    </p>
-                    <p> At GameWisp I grew the software team from myself to a team of ten individuals that comprised developers, designers, data scientists, and project managers. Additionally, I 
-                        led the overall technical design of GameWisp's products and shipped production-quality code on a daily basis. While at GameWisp our Annual Recurring Revenue
-                        grew from $0 to $4M, we gained hundreds of thousands active users, and shipped numerous successful products and features. 
                     </p>
                     <p>
-                        I hope to apply my skills as a scientist, software developer, and business leader to other companies in the gaming industry. I look forward to managing larger teams, solving harder
-                        technical problems, and providing the executive-level insight necessary to help a business grow, regardless of its current size.
+                    Since graduating in 2014 I have applied these skills in startups. First serving as the CTO and Co-Founder of GameWisp until 2018, and then as the CTO of Codecov from 2018 to present day. 
+                    </p>
+                    <p>
+                    While at Codecov I scaled the technical team from 2 to 10+ engineers, support staff, and product developers. I also led the overall technical direction of the business, and helped turn Codecov into a world class, industry leading developer tool and software product. 
+                    </p>
+                    <p> At GameWisp I grew the software team from myself to a team of ten individuals comprised of developers, designers, data scientists, and project managers. Additionally, I 
+                        led the overall technical design of GameWisp's products and shipped production-quality code on a daily basis. While at GameWisp our Annual Recurring Revenue
+                        grew from $0 to $4M, we gained hundreds of thousands active users, and shipped numerous successful products and features.
+                    </p>
+                    <p>
+                        I enjoy applying my skills as a scientist, software developer, and business leader to SaaS companies of all sizes. I'm passionate about managing technical teams, solving complex technical problems, and providing executive-level oversight to growing businesses.
                     </p>
                 </div>
             </section>
@@ -114,7 +110,17 @@
                 <p class="head-text">Academic and Professional Experience</p>
             </div>
             <div class="col-md-10 col-sm-12 head">
-                <h6>Chief Technology Officer, Co-Founder <span style="float:right"> 2012 to Present</span></h6>
+                 <h6>Chief Technology Officer 
+                    <span style="float:right"> 2018 to Present</span></h6>
+                <p>Codecov</p>
+                <ul>
+                    <li> Helped scale our team from 3 to 15+ employees and contractors.</li>
+                    <li> Worked alongside our Vice President of Engineering to shape Codecov's engineering processes and best practices.</li>
+                    <li> Directly led and the solutions engineering, technical support, and product teams. </li>
+                    <li> Served as the technical point of contact for stakeholders from many of the world's largest companies.</li>
+                    <li> Worked directly with Codecov's CEO to set product roadmap and long-term technical direction. </li>
+                </ul>
+                <h6>Chief Technology Officer, Co-Founder <span style="float:right"> 2012 to 2018</span></h6>
                 <p>GameWisp, Inc.</p>
                 <ul>
                     <li> Grew and managed a diverse team from 1 to 10 employees and contractors.</li>

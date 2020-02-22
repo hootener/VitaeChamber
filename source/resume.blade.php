@@ -2,33 +2,57 @@
 
 @section('resumeContent')
 <section class="section summary-section">
-    <h2 class="section-title"><i class="fa fa-user"></i> Executive Summary</h2>
+    <h2 class="section-title"><i data-feather="user"></i> Executive Summary</h2>
     <div class="summary">
-        <p>After I received my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2017.
+        <p>After I received my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2018.
         </p>
-        <p> At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from
-            $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. 
+        <p> At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. 
         </p>
         <p>
-            I hope to apply my skills as a scientist, software developer, and business leader to other companies in the gaming or other creative industries. I look forward to managing larger teams, solving harder
-            technical problems, and providing the executive-level insight necessary to help a business grow, regardless of its current size.
+            In 2018 I joined Codecov, a SaaS code coverage solution, as its CTO. While at Codecov I have scaled the techincal team, facilitated large amounts of revenue growth, and helped turn Codecov into a world class, industry leading developer tool and software product.
+        </p>
+        <p>
+            In 2018 I joined Codecov, a SaaS code coverage solution, as its CTO. While at Codecov I have scaled the techincal team, facilitated large amounts of revenue growth, and helped turn Codecov into a world class, industry leading developer tool and software product.
         </p>
     </div><!--//summary-->            
 </section><!--//section  -->
 
 <section class="section experiences-section">
-    <h2 class="section-title"><i class="fa fa-briefcase"></i> Experience</h2>
-    
+    <h2 class="section-title"><i data-feather="briefcase"></i> Experience</h2>
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3 class="job-title">CTO</h3>
+                <div class="time">2018 - Present</div>
+            </div><!--//upper-row-->
+            <div class="company">Codecov; Remote</div>
+        </div><!--//meta-->
+        <div class="details">
+            <p>I oversaw all technical operations at Codecov, including engineering, technical support, solutions engineering, and product. </p>  
+            <p>While at Codecov I: </p>
+            <ul>
+                <li> Helped scale our team from 3 to 15+ employees and contractors.</li>
+                <li> Worked alongside our Vice President of Engineering to shape Codecov's engineering processes and best practices.</li>
+                <li> Directly led and the solutions engineering, technical support, and product teams. </li>
+                <li> Served as the technical point of contact for stakeholders from many of the world's largest companies.</li>
+                <li> Worked directly with Codecov's CEO to set product roadmap and long-term technical direction. </li>
+            </ul>
+        </div><!--//details-->
+    </div><!--//item-->
     <div class="item">
         <div class="meta">
             <div class="upper-row">
                 <h3 class="job-title">CTO / Co-Founder</h3>
-                <div class="time">2012 - Present</div>
+                <div class="time">2012 - 2018</div>
             </div><!--//upper-row-->
             <div class="company">GameWisp, Inc.; Nashville, TN</div>
         </div><!--//meta-->
         <div class="details">
-            <p>I was directly responsible for GameWisp's technology and product strategy; overseeing the design and development of core software products for our main customer: gaming livestreamers and content creators. </p>  
+            <p>I was directly responsible for GameWisp's technology and product strategy; overseeing the design and development of core software products for our main customer: gaming livestreamers and content creators.     
+            </p>
+            <p>
+            GameWisp's core technology was <a href="https://www.gamasutra.com/view/pressreleases/340429/Lightstream_Acquires_GameWisp_Technology_to_Power_and_Enhance_Offerings_for_Streamers_and_Communities.php" target="_blank" rel="noopener">acquired by Lightstream in 2019.</a>
+            </p>  
             <p>While at GameWisp I: </p>
             <ul>
                 <li> Grew a diverse team from 1 to 10 employees and contractors.</li>
@@ -64,12 +88,12 @@
 </section><!--//section-->
 
 <section class="section projects-section">
-    <h2 class="section-title"><i class="fa fa-archive"></i> Projects</h2>
+    <h2 class="section-title"><i data-feather="archive"></i> Projects</h2>
     <div class="intro">
         <p>I was directly responsible for development on many projects while at GameWisp. Relevant examples include: </p>
     </div><!--//intro-->
     <div class="item">
-        <span class="project-title"><a href="https://gamewisp.com">Subscriptions</a></span> - <span class="project-tagline">A fan monetization and rewards platform for live-streamers and video content creators.</span>
+        <span class="project-title"><a href="https://gamewisp.com">Subscriptions</a></span> - <span class="project-tagline">A fan monetization and rewards platform for live-streamers and video content creators. GameWisp's in-house subscription technology was <a href="https://www.gamasutra.com/view/pressreleases/340429/Lightstream_Acquires_GameWisp_Technology_to_Power_and_Enhance_Offerings_for_Streamers_and_Communities.php" target="_blank" rel="noopener">acquired by Lightstream in 2019</a>. </span>
         
     </div><!--//item-->
     <div class="item">
@@ -90,7 +114,7 @@
 </section><!--//section-->
 
 <section class="skills-section section">
-    <h2 class="section-title"><i class="fa fa-rocket"></i> Skills &amp; Proficiency</h2>
+    <h2 class="section-title"><i data-feather="book-open"></i> Skills &amp; Proficiency</h2>
     <div class="skillset">
         <div class="item">
             <h3 class="level-title">Product Development</h3>
@@ -109,7 +133,7 @@
         <div class="item">
             <h3 class="level-title">PHP &amp; Laravel 5</h3>
             <div class="level-bar">
-                <div class="level-bar-inner" data-level="90%">
+                <div class="level-bar-inner" data-level="85%">
                 </div>                                      
             </div><!--//level-bar-->                                 
         </div><!--//item-->
@@ -117,7 +141,7 @@
         <div class="item">
             <h3 class="level-title">Docker &amp; DevOps</h3>
             <div class="level-bar">
-                <div class="level-bar-inner" data-level="90%">
+                <div class="level-bar-inner" data-level="80%">
                 </div>                                      
             </div><!--//level-bar-->                                 
         </div><!--//item-->
@@ -126,7 +150,7 @@
         <div class="item">
             <h3 class="level-title">AWS, GCP, &amp; Azure</h3>
             <div class="level-bar">
-                <div class="level-bar-inner" data-level="80%">
+                <div class="level-bar-inner" data-level="70%">
                 </div>                                      
             </div><!--//level-bar-->                                 
         </div><!--//item-->
@@ -134,11 +158,17 @@
         <div class="item">
             <h3 class="level-title">VueJS</h3>
             <div class="level-bar">
-                <div class="level-bar-inner" data-level="80%">
+                <div class="level-bar-inner" data-level="70%">
                 </div>                                      
             </div><!--//level-bar-->                                 
         </div><!--//item-->
-        
+        <div class="item">
+            <h3 class="level-title">Python</h3>
+            <div class="level-bar">
+                <div class="level-bar-inner" data-level="60%">
+                </div>                                      
+            </div><!--//level-bar-->                                 
+        </div><!--//item-->
         <div class="item">
             <h3 class="level-title">Javascript, HTML, SASS</h3>
             <div class="level-bar">
