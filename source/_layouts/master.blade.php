@@ -23,9 +23,9 @@
                     <li class="nav-item">
                         <a class="nav-link {{ $page->selected('vitae') }}" href="{{$page->baseUrl}}/vitae">CV</a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link {{ $page->selected('press') }}" href="{{$page->baseUrl}}/press">Press</a>
-                    </li>
+                    </li> --}}
                     {{--  <li class="nav-item">
                         <a class="nav-link" href="{{$page->baseUrl}}/projects">Projects</a>
                     </li>  --}}
