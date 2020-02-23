@@ -1,5 +1,7 @@
 @extends('_layouts.master')
-
+@section('page-title')
+Eli Hooten -- Resume
+@endsection
 @section('page-style')
 <style>
     body {
