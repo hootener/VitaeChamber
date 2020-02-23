@@ -1,5 +1,7 @@
 @extends('_layouts.master')
-
+@section('page-title')
+Eli Hooten -- Personal Site
+@endsection
 @section('body')
 <div class="row">
     <div class="col-md-8 offset-md-2">

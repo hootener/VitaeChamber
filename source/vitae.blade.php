@@ -1,6 +1,9 @@
 @extends('_layouts.master')
-
+@section('page-title')
+Eli Hooten -- Curriculum Vitae
+@endsection
 @section('page-style')
+
 <style>
     body {
         background: #ededed;

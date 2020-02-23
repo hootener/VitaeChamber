@@ -1,5 +1,7 @@
 @extends('_layouts.resume-master')
-
+@section('page-title')
+Eli Hooten -- Resume
+@endsection
 @section('resumeContent')
 <section class="section summary-section">
     <h2 class="section-title"><i data-feather="user"></i> Executive Summary</h2>

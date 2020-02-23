@@ -1,4 +1,7 @@
 @extends('_layouts.master')
+@section('page-title')
+404 -- Page Not Found
+@endsection
 
 @section('body')
 <div class="row">
