@@ -11,10 +11,7 @@ Eli Hooten -- Resume
         <p> At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. 
         </p>
         <p>
-            In 2018 I joined Codecov, a SaaS code coverage solution, as its CTO. While at Codecov I have scaled the techincal team, facilitated large amounts of revenue growth, and helped turn Codecov into a world class, industry leading developer tool and software product.
-        </p>
-        <p>
-            In 2018 I joined Codecov, a SaaS code coverage solution, as its CTO. While at Codecov I have scaled the techincal team, facilitated large amounts of revenue growth, and helped turn Codecov into a world class, industry leading developer tool and software product.
+            In 2018 I joined Codecov, a SaaS code coverage solution, as its CTO. While at Codecov I have scaled the techincal team, facilitated large amounts of revenue growth, and helped turn Codecov into a world class, industry leading developer tool and software product used by over a million software developers worldwide.
         </p>
     </div><!--//summary-->            
 </section><!--//section  -->
