@@ -14,7 +14,7 @@ Eli Hooten -- Resume
                 In 2018 I joined Codecov, a SaaS code coverage solution, as its technical Co-Founder / CTO. While at Codecov I scaled the technical team and many supporting functions including engineering, product, design, security, and support. I also facilitated several multiples of revenue growth, and helped turn Codecov into a world class, industry leading developer tool used by over a million software developers worldwide. Codecov was acquired by Sentry in 2022.
             </p>
             <p>
-                Following Sentry's acquisition of Codecov, I stayed on as the Director of Engineering for Codecov. I was instrumental in scaling and leading the engineering, product, and design teams for Codecov and continued to drive revenue growth and production adoption.
+                Following Sentry's acquisition of Codecov, I stayed on as the Director of Engineering for Codecov. I was instrumental in scaling and leading the engineering, product, and design teams for Codecov and continued to drive revenue growth and product adoption.
             </p>
         </div><!--//summary-->
     </section><!--//section  -->
