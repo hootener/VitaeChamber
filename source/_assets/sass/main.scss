@@ -9,7 +9,7 @@ $icon-font-path: '../fonts/';
   @return $path;
 }
 
-@import "node_modules/bootstrap/scss/bootstrap";
+@import '~bootstrap/scss/bootstrap';
 
 .navbar {
     background: white;
