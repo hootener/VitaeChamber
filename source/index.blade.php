@@ -6,13 +6,15 @@ Eli Hooten -- Personal Site
 <div class="row">
     <div class="col-md-8 offset-md-2">
         <h3>Hey there</h3>
-        <p> You've reached the personal site of Eli Hooten. This site serves as a compilation of my academic work, professional experience, 
-            and personal projects.</p>
+        <p> You've reached the personal site of Eli Hooten.</p>
         
-        <p> Here are some facts: </p>
+        <p> Here are my last several years in five bullet points: </p>
         <ul>
             <li>
-                I am the CTO of <a href="https://codecov.io" target="_blank" rel="noopener">Codecov</a>, and have worked with the fully remote, globally distributed team to grow Codecov into a world class code coverage tool and company.
+                I'm currently the Director of Engineering for Codecov at <a href="https://getsentry.com" target="_blank" rel="noopener">Sentry</a>, the world's leading error reporting and application performance monitoring platform.
+            </li>
+            <li>
+                I was the CTO of <a href="https://codecov.io" target="_blank" rel="noopener">Codecov</a> from 2018 - 2022. At Codecov I helped build the fully remote, globally distributed team that turned Codecov into a world-class developer tool used by over one million software developers. Codecov was <a href="https://sentry.io/about/press-releases/sentry-acquires-codecov/" target="_blank" rel="noopener">acquired by Sentry in 2022</a>.
             </li>
             <li> 
                 I was the CTO / Co-Founder of <a href="https://gamewisp.com" target="_blank" rel="noopener">GameWisp</a> (2012 - 2018). Its core technology was <a href="https://www.gamasutra.com/view/pressreleases/340429/Lightstream_Acquires_GameWisp_Technology_to_Power_and_Enhance_Offerings_for_Streamers_and_Communities.php" target="_blank" rel="noopener">acquired by Lightstream in 2019</a>.
