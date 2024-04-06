@@ -8,8 +8,7 @@
             @yield('page-title')
         </title>
 
-
-        <link rel="stylesheet" href="assets/build/css/main.css" type="text/css">
+        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" type="text/css">
 
 
 
@@ -42,9 +41,8 @@
         @yield('body')
         </div>
 
-        <script src="assets/build/js/main.js"></script>
-{{--        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>--}}
-        
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+
         <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
 
         @yield('page-scripts')
