@@ -11,7 +11,10 @@ Eli Hooten -- Personal Site
         <p> Here are my last several years in five bullet points: </p>
         <ul>
             <li>
-                I'm currently the Director of Engineering for Codecov at <a href="https://getsentry.com" target="_blank" rel="noopener">Sentry</a>, the world's leading error reporting and application performance monitoring platform.
+                I'm currently the CTO and Co-Founder of Line, where I build the product, guide technical decision making, and assist with fundraising and overall business strategy.
+            </li>
+            <li>
+                I was the Director of Engineering for Codecov at <a href="https://getsentry.com" target="_blank" rel="noopener">Sentry</a> from 2022 - 2025.
             </li>
             <li>
                 I was the CTO of <a href="https://codecov.io" target="_blank" rel="noopener">Codecov</a> from 2018 - 2022. At Codecov I helped build the fully remote, globally distributed team that turned Codecov into a world-class developer tool used by over one million software developers. Codecov was <a href="https://sentry.io/about/press-releases/sentry-acquires-codecov/" target="_blank" rel="noopener">acquired by Sentry in 2022</a>.

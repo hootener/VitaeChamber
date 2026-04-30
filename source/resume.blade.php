@@ -6,9 +6,10 @@ Eli Hooten -- Resume
     <section class="section summary-section">
         <h2 class="section-title"><i data-feather="user"></i> Executive Summary</h2>
         <div class="summary">
-            <p>After I received my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2018.
+            <p>I am CTO and Co-Founder of Line, where I build the product, guide technical decision making, and assist with fundraising and overall business strategy.
             </p>
-            <p> At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. Ultimately, I helped lead GameWisp to an acquisition by Lightstream in 2018.
+            <p>After I received my Ph D in Computer Science from Vanderbilt University, I served as CTO of GameWisp, Inc. from 2012 to 2018.
+             At GameWisp I grew the software team from zero to ten individuals. Additionally, I led the technical design of GameWisp's products and shipped production-quality code on a daily basis. I assisted in growing GameWisp from $0 to $4M ARR, gaining hundreds of thousands active users, and shipping numerous successful products and features. Ultimately, I helped lead GameWisp to an acquisition by Lightstream in 2018.
             </p>
             <p>
                 In 2018 I joined Codecov, a SaaS code coverage solution, as its technical Co-Founder / CTO. While at Codecov I scaled the technical team and many supporting functions including engineering, product, design, security, and support. I also facilitated several multiples of revenue growth, and helped turn Codecov into a world class, industry leading developer tool used by over a million software developers worldwide. Codecov was acquired by Sentry in 2022.
@@ -24,8 +25,23 @@ Eli Hooten -- Resume
         <div class="item">
             <div class="meta">
                 <div class="upper-row">
+                    <h3 class="job-title">CTO / Co-Founder</h3>
+                    <div class="time">2025 - Present</div>
+                </div><!--//upper-row-->
+                <div class="company">Line</div>
+            </div><!--//meta-->
+            <div class="details">
+                <ul>
+                    <li> Build the product and guide technical decision making.</li>
+                    <li> Assist with fundraising and overall business strategy.</li>
+                </ul>
+            </div><!--//details-->
+        </div><!--//item-->
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
                     <h3 class="job-title">Director of Engineering, Codecov</h3>
-                    <div class="time">2022 - Present</div>
+                    <div class="time">2022 - 2025</div>
                 </div><!--//upper-row-->
                 <div class="company">Sentry; Remote</div>
             </div><!--//meta-->

@@ -43,7 +43,7 @@ Eli Hooten -- Curriculum Vitae
                     <p>While obtaining my Ph D in Computer Science, I developed a deep knowledge of experimental design, human factors, statistical analysis, software development, and team management. 
                     </p>
                     <p>
-                    Since graduating in 2014 I have applied these skills in startups. First serving as the CTO and Co-Founder of GameWisp until 2018, then as the CTO and Co-Founder of Codecov from 2018 to 2022, finally as Director of Engineering for Codecov at Sentry from 2022 to the present day.
+                    Since graduating in 2014 I have applied these skills in startups. First serving as the CTO and Co-Founder of GameWisp until 2018, then as the CTO and Co-Founder of Codecov from 2018 to 2022, as Director of Engineering for Codecov at Sentry from 2022 to 2025, and currently as CTO and Co-Founder of Line.
                     </p>
                     <p> At GameWisp I grew the software team from myself to a team of ten individuals comprised of developers, designers, data scientists, and project managers. Additionally, I 
                         led the overall technical design of GameWisp's products and shipped production-quality code on a daily basis. While at GameWisp our Annual Recurring Revenue
@@ -56,7 +56,7 @@ Eli Hooten -- Curriculum Vitae
                         Codecov was acquired by Sentry in 2022.
                     </p>
                     <p>
-                        I enjoy applying my skills as an executive leader, software developer, and scientist to SaaS companies of all sizes. I'm passionate about managing product and engineering teams, solving complex technical problems, and providing executive-level oversight to software businesses.
+                        I am currently CTO and Co-Founder of Line, where I build the product, guide technical decision making, and assist with fundraising and overall business strategy. I enjoy applying my skills as an executive leader, software developer, and scientist to SaaS companies of all sizes. I'm passionate about managing product and engineering teams, solving complex technical problems, and providing executive-level oversight to software businesses.
                     </p>
                 </div>
             </section>
@@ -116,8 +116,15 @@ Eli Hooten -- Curriculum Vitae
                 <p class="head-text">Academic and Professional Experience</p>
             </div>
             <div class="col-md-10 col-sm-12 head">
+                <h6>Chief Technology Officer, Co-Founder
+                    <span style="float:right"> 2025 to Present</span></h6>
+                <p>Line</p>
+                <ul>
+                    <li> Build the product and guide technical decision making.</li>
+                    <li> Assist with fundraising and overall business strategy.</li>
+                </ul>
                 <h6>Director of Engineering, Codecov
-                    <span style="float:right"> 2022 to Present</span></h6>
+                    <span style="float:right"> 2022 to 2025</span></h6>
                 <p>Sentry</p>
                 <ul>
                     <li> Devised and led Codecov's transition from a single-purpose code coverage tool to a robust code quality platform.</li>
