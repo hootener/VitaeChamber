@@ -1,20 +1,47 @@
-@extends('_layouts.master')
-@section('page-title')
-Eli Hooten -- Curriculum Vitae
-@endsection
-@section('page-style')
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>
+            Eli Hooten -- Curriculum Vitae
+        </title>
 
+        <link rel="stylesheet" href="./assets/build/css/main.css" type="text/css">
+
+
+
+        <script src="https://unpkg.com/feather-icons"></script>
+        
 <style>
     body {
         background: #ededed;
     }
 </style> 
 
-@endsection
+    </head>
+    <body>
+        <header class="navbar fixed-top navbar-expand navbar-light flex-column flex-md-row bd-navbar site-nav">
+            <a class="navbar-brand mr-3 mr-md-3" href="./index.html">Eli Hooten</a>
 
-@section('body')
-<div class="row" style="padding-bottom: 20px; padding-top: 10px">
-    {{--<a class="btn btn-lrg btn-success" href="https://www.dropbox.com/s/rhh31mb72y6mp7k/vitae.pdf" target="_blank">View as PDF</a> --}}
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link " href="./resume.html">Resume</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./vitae.html">CV</a>
+                    </li>
+                    
+                    
+                </ul>
+            </div>
+        </header>
+
+        <div class="container content-container">
+        <div class="row" style="padding-bottom: 20px; padding-top: 10px">
+    
 </div>
 <div class="row cv-container" style="margin-bottom: 50px; padding-bottom: 60px; padding-top: 60px">
     <div class="col-md-10 offset-md-1" style="text-align: right; border-bottom: 1px solid">
@@ -326,4 +353,13 @@ Eli Hooten -- Curriculum Vitae
         </section>
     </div>
 </div>
-@endsection
+        </div>
+
+        <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+
+        <script>
+            feather.replace()
+        </script>
+        
+    </body>
+</html>
