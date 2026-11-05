@@ -159,25 +159,36 @@ li {
 }
 
 /* CV-specific: labeled sections */
+/* Two-column section: label in the left gutter, content indented past it.
+   Deliberately NOT flex. A flex container does not fragment across pages in
+   paged media -- when a long section (Experience, Publications) overflows,
+   the flex layout collapses on the continuation page and the content snaps
+   back to the left margin. Block padding-left is preserved across page
+   breaks, so the indent holds on every page; the label is taken out of flow
+   and pinned into the gutter, where it renders once at the start of the
+   section and correctly does not repeat on continuation pages. */
 .cv-section {
-    display: flex;
-    gap: 16pt;
+    position: relative;
+    padding-left: 136pt;   /* 120pt label column + 16pt gutter */
     margin-bottom: 10pt;
+    /* Kept from the flex version: kills orphaned labels on SHORT sections,
+       where a label could otherwise sit at a page foot with its content
+       carried over. Sections longer than a page (Experience, Publications)
+       must break regardless, and the padding-left above is what keeps their
+       continuation pages correctly indented. */
     break-inside: avoid;
 }
 
 .cv-section .label {
-    flex: 0 0 120pt;
+    position: absolute;
+    left: 0;
+    top: 2pt;
+    width: 120pt;
     font-weight: bold;
     font-size: 10pt;
     text-transform: uppercase;
     letter-spacing: 0.5pt;
     color: #555;
-    padding-top: 2pt;
-}
-
-.cv-section .content {
-    flex: 1;
 }
 
 .cv-section .content h6 {
